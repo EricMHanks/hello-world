@@ -7,4 +7,4 @@ I am **nineteen** years old
 - I am left-handed
 - I am hopeful for my future
 
-[Home](https://github.com/EricMHanks/EricHanks-midterm/edit/main/README.md "HomePage") | [About Me](
+[Home](https://github.com/EricMHanks/EricHanks-midterm/edit/main/README.md "HomePage") | [About Me](https://github.com/EricMHanks/aboutMe/blob/main/README.md "Biography") | [Grocery List](https://github.com/EricMHanks/myGroceryList/blob/main/README.md "List")
