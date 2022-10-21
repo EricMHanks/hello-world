@@ -6,3 +6,5 @@ I am **nineteen** years old
 - This is my 'HelloWorld'
 - I am left-handed
 - I am hopeful for my future
+
+[Home](https://github.com/EricMHanks/EricHanks-midterm/edit/main/README.md "HomePage") | [About Me](
